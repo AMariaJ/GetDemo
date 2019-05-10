@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public static void print(){
 		
 		System.out.println("*** Selenium test ***");
+		System.out.println("*** Selenium test again ***");
 	}
 
 }
